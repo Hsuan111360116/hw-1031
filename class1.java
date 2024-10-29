@@ -18,6 +18,6 @@ public class class1 {
 	 System.out.println("選擇的是1");
 	 }
 	 
-	 System.out.println("結束處理");
+	 System.out.println("結束處理 ");
 }
 }
